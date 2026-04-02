@@ -16,6 +16,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 );
 
 builder.Services.AddScoped<UserService>();
+builder.Services.AddScoped<CategoryService>();
 
 var app = builder.Build();
 

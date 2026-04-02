@@ -6,6 +6,6 @@ namespace FinanceBackend.Models
     {
         public int categoryId { get; set; }
         public string name { get; set; }
-        public string type { get; set; }
+        public CategoryType type { get; set; }
     }
 }

@@ -2,10 +2,6 @@ D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\appset
 D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\appsettings.json
 D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\FinanceBackend.staticwebassets.endpoints.json
 D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\FinanceBackend.exe
-D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\FinanceBackend.deps.json
-D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\FinanceBackend.runtimeconfig.json
-D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\FinanceBackend.dll
-D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\FinanceBackend.pdb
 D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\Humanizer.dll
 D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\games\technicalprojects\financeBackend\financeBackend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
@@ -105,6 +101,7 @@ D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\Financ
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.csproj.CoreCompileInputs.cache
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.MvcApplicationPartsAssemblyInfo.cs
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.sourcelink.json
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\scopedcss\bundle\FinanceBackend.styles.css
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\staticwebassets.build.json
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\staticwebassets.development.json
@@ -119,6 +116,9 @@ D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\Financ
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.dll
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\refint\FinanceBackend.dll
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.pdb
-D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.genruntimeconfig.cache
-D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\ref\FinanceBackend.dll
-D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.sourcelink.json
+D:\games\technicalProjects\FinanceBackend\FinanceBackend\bin\Debug\net9.0\FinanceBackend.deps.json
+D:\games\technicalProjects\FinanceBackend\FinanceBackend\bin\Debug\net9.0\FinanceBackend.runtimeconfig.json
+D:\games\technicalProjects\FinanceBackend\FinanceBackend\bin\Debug\net9.0\FinanceBackend.dll
+D:\games\technicalProjects\FinanceBackend\FinanceBackend\bin\Debug\net9.0\FinanceBackend.pdb
+D:\games\technicalProjects\FinanceBackend\FinanceBackend\obj\Debug\net9.0\FinanceBackend.genruntimeconfig.cache
+D:\games\technicalProjects\FinanceBackend\FinanceBackend\obj\Debug\net9.0\ref\FinanceBackend.dll

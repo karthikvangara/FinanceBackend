@@ -3,7 +3,6 @@ using FinanceBackend.Data;
 using FinanceBackend.DTOs;
 using FinanceBackend.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace FinanceBackend.Services
 {

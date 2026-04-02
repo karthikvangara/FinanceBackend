@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\games\\technicalprojects\\financeBackend\\financeBackend\\FinanceBackend.csproj": {}
+    "D:\\games\\technicalProjects\\FinanceBackend\\FinanceBackend\\FinanceBackend.csproj": {}
   },
   "projects": {
-    "D:\\games\\technicalprojects\\financeBackend\\financeBackend\\FinanceBackend.csproj": {
+    "D:\\games\\technicalProjects\\FinanceBackend\\FinanceBackend\\FinanceBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\games\\technicalprojects\\financeBackend\\financeBackend\\FinanceBackend.csproj",
+        "projectUniqueName": "D:\\games\\technicalProjects\\FinanceBackend\\FinanceBackend\\FinanceBackend.csproj",
         "projectName": "FinanceBackend",
-        "projectPath": "D:\\games\\technicalprojects\\financeBackend\\financeBackend\\FinanceBackend.csproj",
+        "projectPath": "D:\\games\\technicalProjects\\FinanceBackend\\FinanceBackend\\FinanceBackend.csproj",
         "packagesPath": "C:\\Users\\vanga\\.nuget\\packages\\",
-        "outputPath": "D:\\games\\technicalprojects\\financeBackend\\financeBackend\\obj\\",
+        "outputPath": "D:\\games\\technicalProjects\\FinanceBackend\\FinanceBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

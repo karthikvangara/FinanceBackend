@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4arXNKQH1Dc=",
+  "dgSpecHash": "AdFaySF1t84=",
   "success": true,
-  "projectFilePath": "D:\\games\\technicalprojects\\financeBackend\\financeBackend\\FinanceBackend.csproj",
+  "projectFilePath": "D:\\games\\technicalProjects\\FinanceBackend\\FinanceBackend\\FinanceBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanga\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vanga\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
