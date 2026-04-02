@@ -1,4 +1,5 @@
 ﻿using System;
+using FinanceBackend.Models;
 
 namespace FinanceBackend.Models
 {
@@ -7,7 +8,7 @@ namespace FinanceBackend.Models
         public int userId { get; set; }
         public string name { get; set; }
         public string email { get; set; }
-        public string role { get; set; }
+        public UserRole role { get; set; }
         public bool isActive { get; set; }
         public DateTime createdAt { get; set; }
     }

@@ -121,3 +121,4 @@ D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\refint
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.pdb
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.genruntimeconfig.cache
 D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\ref\FinanceBackend.dll
+D:\games\technicalprojects\financeBackend\financeBackend\obj\Debug\net9.0\FinanceBackend.sourcelink.json

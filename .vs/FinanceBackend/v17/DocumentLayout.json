@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\models\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:models\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:51:04.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:18:42.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:08:31.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinancialRecord.cs",
+              "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\FinancialRecord.cs",
+              "RelativeDocumentMoniker": "Models\\FinancialRecord.cs",
+              "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\FinancialRecord.cs",
+              "RelativeToolTip": "Models\\FinancialRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:08:28.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:53:04.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
