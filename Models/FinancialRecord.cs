@@ -8,7 +8,6 @@ namespace FinanceBackend.Models
         public int userId { get; set; }
         public int categoryId { get; set; }
         public decimal amount { get; set; }
-        public string type { get; set; }
         public DateTime date { get; set; }
         public string? note { get; set; }
         public DateTime createdAt { get; set; } = DateTime.UtcNow;

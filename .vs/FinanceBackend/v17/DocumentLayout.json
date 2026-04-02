@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\dtos\\createfinancialrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:dtos\\createfinancialrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\models\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +27,16 @@
       "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|d:\\games\\technicalprojects\\financebackend\\financebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32F5D71-3693-4CE6-ADBD-3B767266ED46}|FinanceBackend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,12 +53,51 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 259,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 187,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:46:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:46:13.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateFinancialRecordDto.cs",
+              "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\DTOs\\CreateFinancialRecordDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateFinancialRecordDto.cs",
+              "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\DTOs\\CreateFinancialRecordDto.cs",
+              "RelativeToolTip": "DTOs\\CreateFinancialRecordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:39:43.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\DTOs\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CreateUserDto.cs",
@@ -58,13 +109,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T10:35:16.116Z",
               "EditorCaption": ""
@@ -77,19 +128,20 @@
               "RelativeDocumentMoniker": "Services\\UserService.cs",
               "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T06:51:04.569Z"
+              "WhenOpened": "2026-04-02T06:51:04.569Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 141,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 213,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "Models\\UserRole.cs",
@@ -101,19 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T09:18:42.898Z"
+              "WhenOpened": "2026-04-02T09:18:42.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -121,17 +174,18 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T07:08:31.669Z"
+              "WhenOpened": "2026-04-02T07:08:31.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FinancialRecord.cs",
               "DocumentMoniker": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\FinancialRecord.cs",
               "RelativeDocumentMoniker": "Models\\FinancialRecord.cs",
               "ToolTip": "D:\\Games\\TechnicalProjects\\FinanceBackend\\FinanceBackend\\Models\\FinancialRecord.cs",
               "RelativeToolTip": "Models\\FinancialRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T07:08:28.288Z",
               "EditorCaption": ""
@@ -146,7 +200,8 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T06:53:04.293Z"
+              "WhenOpened": "2026-04-02T06:53:04.293Z",
+              "EditorCaption": ""
             }
           ]
         }

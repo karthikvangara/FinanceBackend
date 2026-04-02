@@ -50,12 +50,9 @@ namespace FinanceBackend.Services
             return _applicationDbContext.Categories.Where(c=>c.type== parsedCategoryType).ToList();
         }
 
-        public Category GetByCategoryId(int categoryId)
+        public Category? GetByCategoryId(int categoryId)
         {
-            Category category = _applicationDbContext.Categories.Find(categoryId);
-            if (category == null)
-                throw new ArgumentException("Invalid Category Id");
-            return category;
+            return _applicationDbContext.Categories.Find(categoryId);
         }
 
         public Category UpdateCategory(int categoryId,CreateCategoryDto newCategoryDto)
